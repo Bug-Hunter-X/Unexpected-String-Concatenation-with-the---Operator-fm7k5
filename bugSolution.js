@@ -1,0 +1,1 @@
+function foo(a,b){return parseInt(a)+parseInt(b); }console.log(foo(2,3));//5console.log(foo(2,"3"));//5console.log(foo("2",3));//5console.log(foo("2","3"));//5
